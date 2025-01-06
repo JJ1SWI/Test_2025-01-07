@@ -16,5 +16,10 @@ namespace Test_2025_01_07
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
