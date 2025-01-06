@@ -19,7 +19,7 @@ namespace Test_2025_01_07
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            label1.Text = "押しましたね？";
         }
     }
 }
